@@ -1,4 +1,4 @@
-**************CY Tech - CER-JO***************
+**************CY Tech - CER-JO**************
 
 ******Projet-semestre2 - PréIng1*****
 **Bienvenue dans notre programme de gestion des entraînements d'athlètes.***
