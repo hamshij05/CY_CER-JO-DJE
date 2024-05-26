@@ -1,10 +1,6 @@
 //Mode Consultation
 //Inclusion des bibliothèques
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <time.h>
-#include <math.h>
+#include "headerfiles.h"
 
 // Définition de la taile maximale de chaîne de caractères pour les noms des athlètes et le maximum des athlètes//
 #define MAXCHAR 100
