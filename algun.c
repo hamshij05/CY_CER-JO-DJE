@@ -1,9 +1,6 @@
 //Mode Création 
-    #include <stdio.h>
-    #include <stdlib.h>
-    #include <string.h>
-    #include <time.h>
-
+//Inclusion des bibliothèques
+#include "headerfiles.h"
     // Définition de la taile maximale de chaine de caractères pour les noms des athlètes//
     #define MAXCHAR 25
     #define MAXATH 300
